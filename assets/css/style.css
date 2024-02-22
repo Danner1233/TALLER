@@ -1,4 +1,37 @@
-.caca{
-    background-color: aliceblue;
-    font-size: medium;
+@import url('https://fonts.googleapis.com/css2?family=Anta&display=swap');
+
+/* root.css */
+
+:root {
+    --azul: #007bff;
+    --rojo: #dc3545;
+    --verde: #28a745;
+    --amarillo: #ffc107;
+    --naranja: #fd7e14;
+    --rosa: #e83e8c;
+    --violeta: #6f42c1;
+    --morado: #8a2be2;
+    --turquesa: #20c997;
+    --cyan: #17a2b8;
+    --gris: #6c757d;
+    --negro: #343a40;
+    --blanco: #fff;
+    --marron: #8b4513;
+    --oliva: #808000;
+    --azul-oscuro: #00008b;
+    --rojo-oscuro: #8b0000;
+    --verde-oscuro: #006400;
+    --rosa-oscuro: #8b008b;
+    --violeta-oscuro: #9400d3;
+    --naranja-oscuro: #8b4500;
+    --turquesa-oscuro: #008b8b;
+    --cyan-oscuro: #008b8b;
+    --amarillo-oscuro: #8b8b00;
+    --marron-oscuro: #a52a2a;
+}
+
+body {
+    font-family: "Anta", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
